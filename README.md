@@ -3,5 +3,5 @@ React Series
 git init
 git add Readme.md
 git commit -m "React First Series"
-git remote origin 
+git remote origin https://github.com/Droid0011/ReactProject.git
 
